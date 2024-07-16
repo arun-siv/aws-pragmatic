@@ -1,3 +1,4 @@
+oci
 boto3
 black
 pylint
