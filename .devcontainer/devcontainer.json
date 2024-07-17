@@ -23,8 +23,19 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"ms-vscode.makefile-tools",
-				"amazonwebservices.amazon-q-vscode"
+				"amazonwebservices.amazon-q-vscode",
+				"Oracle.faas",
+				"Oracle.oci-core"
 			]
+		},
+		"codespaces": {
+			"repositories": {
+				"arun-siv/oci_faas_example" :{
+					"permissions": {
+						"issues": "write"
+					}
+				}
+			}
 		}
 	
 	},

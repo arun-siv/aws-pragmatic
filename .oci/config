@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa54enj5cpb6k6dilmend4vaniiav5eydark6t2jpnvct6c67ukeaq
+fingerprint=4f:1f:15:46:86:5b:83:aa:30:10:2f:03:22:23:b2:36
+key_file=/home/vscode/.oci/loony_pvt.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaa5hycehaaunlxqxywxreeuyownrqwtg5ymhsqhj572u3e4ycw2mfa
+region=ap-mumbai-1
